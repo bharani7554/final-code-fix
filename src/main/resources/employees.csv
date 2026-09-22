@@ -1,0 +1,9 @@
+empId,name,email,department,salary,yearsOfService,country,managerEmail
+1001,Asha Raman,asha.raman@example.com,Engineering,92000,6,IN,lead.eng@example.com
+1002,Ben Carter,ben.carter@example.com,Finance,78000,3,US,lead.fin@example.com
+1003,Chen Wei,chen.wei@example.com,Engineering,101000,9,SG,lead.eng@example.com
+1004,Diana Lopez,diana.lopez@example.com,HR,64000,2,US,lead.hr@example.com
+1005,Emeka Obi,emeka.obi@example.com,Sales,71000,5,NG,lead.sales@example.com
+1006,Fatima Khan,fatima.khan@example.com,Finance,88000,8,IN,lead.fin@example.com
+1007,Grace Nakamura,grace.nakamura@example.com,Engineering,115000,12,JP,lead.eng@example.com
+1008,Hassan Ali,hassan.ali@example.com,Sales,54000,1,AE,lead.sales@example.com
